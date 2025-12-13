@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T15:23:50.979676+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2025-12-13T16:28:12.204205+08:00",
+  "total_titles_processed": 1118,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普称泰柬已同意停火，泰方否认",
@@ -49,11 +49,25 @@
             13,
             14,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 15时23分]"
+          "appearance_count": 20,
+          "time_info": "[00时28分 ~ 16时28分]"
+        },
+        {
+          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
+          "url": "https://www.cls.cn/detail/2228592",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时17分 ~ 16时28分]"
         },
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -110,18 +124,6 @@
           "time_info": "[11时18分 ~ 15时23分]"
         },
         {
-          "title": "特朗普说倾向选择沃什或哈西特接任美联储主席",
-          "url": "https://flash.jin10.com/detail/20251213131305142800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 15时23分]"
-        },
-        {
           "title": "美国文物保护组织就白宫宴会厅项目起诉特朗普",
           "url": "https://flash.jin10.com/detail/20251213111612295800",
           "source": "金十数据",
@@ -129,24 +131,25 @@
             1,
             5,
             8,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 15时23分]"
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 16时28分]"
         },
         {
-          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
-          "url": "https://www.cls.cn/detail/2228592",
-          "source": "财联社热门",
+          "title": "特朗普说倾向选择沃什或哈西特接任美联储主席",
+          "url": "https://flash.jin10.com/detail/20251213131305142800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            10,
-            9
+            2,
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时17分 ~ 15时23分]"
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 16时28分]"
         },
         {
           "title": "特朗普称泰柬已同意停火 泰方否认",
@@ -169,7 +172,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -403,6 +406,28 @@
           "time_info": "[09时42分 ~ 11时18分]"
         },
         {
+          "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
+          "title": "观察｜特朗普磨刀霍霍，马杜罗歌舞“公关”：别担心，要快乐",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32162318",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
           "title": "消息人士：特朗普政府今年不太可能敲定2026年的生物燃料配额",
           "url": "https://flash.jin10.com/detail/20251213040502297800",
           "source": "金十数据",
@@ -415,13 +440,24 @@
           "time_info": "[09时42分 ~ 11时18分]"
         },
         {
+          "title": "邵永灵：欧盟阻击特朗普“和平计划”",
+          "url": "https://www.toutiao.com/trending/7583206442077785654/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
           "title": "爱泼斯坦案新影像曝光，有特朗普与6女子合照",
           "url": "https://news.ifeng.com/c/8p315VNzI20",
           "source": "凤凰网",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -542,6 +578,21 @@
       "match_count": 10,
       "titles": [
         {
+          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
+          "url": "https://www.cls.cn/detail/2228537",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            5,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时21分 ~ 16时28分]"
+        },
+        {
           "title": "ChatGPT5.2有哪些新升级",
           "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
           "source": "bilibili 热搜",
@@ -551,20 +602,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时28分 ~ 12时28分]"
-        },
-        {
-          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
-          "url": "https://www.cls.cn/detail/2228537",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时21分 ~ 15时23分]"
         },
         {
           "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
@@ -677,8 +714,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时21分 ~ 15时23分]"
+          "appearance_count": 12,
+          "time_info": "[06时21分 ~ 16时28分]"
         },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
