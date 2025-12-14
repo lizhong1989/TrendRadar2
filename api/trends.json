@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T20:42:05.429420+08:00",
-  "total_titles_processed": 1278,
+  "generated_at": "2025-12-14T21:29:31.452263+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
@@ -147,6 +147,17 @@
           "time_info": "[05时19分 ~ 09时53分]"
         },
         {
+          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 21时29分]"
+        },
+        {
           "title": "3名美方人员遇袭死亡，特朗普誓言报复",
           "url": "https://www.cls.cn/detail/2228813",
           "source": "财联社热门",
@@ -158,17 +169,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时40分 ~ 17时22分]"
-        },
-        {
-          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
-          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 20时42分]"
         },
         {
           "title": "特朗普对其经济政策能否助力中期选举存疑",
@@ -289,6 +289,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普回应美士兵在叙遇袭身亡",
+          "url": "https://www.douyin.com/hot/2335907",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "特朗普的“新五常”计划可行吗",
