@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T16:35:31.963843+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2025-12-15T17:35:29.311494+08:00",
+  "total_titles_processed": 1346,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时51分 ~ 16时35分]"
+          "appearance_count": 10,
+          "time_info": "[09时51分 ~ 17时35分]"
         },
         {
           "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
@@ -105,6 +105,17 @@
           "time_info": "[04时24分 ~ 07时20分]"
         },
         {
+          "title": "日媒：特朗普曾警告高市早苗“别来添乱”",
+          "url": "https://news.ifeng.com/c/8p6g6UaeUPY",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "据AXIOS网站：乌克兰总统泽连斯基将在柏林会见美国中东问题特使威特科夫及特朗普女婿库什纳。之后他将分别会见来自法国、德国和英国的国家安全顾问。",
           "url": "https://flash.jin10.com/detail/20251214211648647800",
           "source": "金十数据",
@@ -152,8 +163,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时38分 ~ 16时35分]"
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 17时35分]"
         },
         {
           "title": "拜登白送的无人机特朗普要收钱，台军：不要了",
@@ -162,15 +173,15 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 17时35分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
@@ -183,8 +194,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时51分 ~ 16时35分]"
+          "appearance_count": 10,
+          "time_info": "[09时51分 ~ 17时35分]"
         },
         {
           "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
@@ -218,11 +229,34 @@
           "url": "https://www.cls.cn/detail/2229441",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时38分 ~ 16时35分]"
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 17时35分]"
+        },
+        {
+          "title": "iRobot股价美股盘前暴跌超80%，至0.76美元，此前公司已申请破产，并寻求收购制造商。",
+          "url": "https://wallstreetcn.com/livenews/3020863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "iRobot股价美股盘前暴跌82.5%，至0.76美元，此前公司已申请破产，并寻求收购制造商。",
+          "url": "https://flash.jin10.com/detail/20251215170334528800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         }
       ]
     },
