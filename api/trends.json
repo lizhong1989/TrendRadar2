@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T07:22:51.919909+08:00",
-  "total_titles_processed": 698,
+  "generated_at": "2025-12-16T09:48:56.459528+08:00",
+  "total_titles_processed": 846,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -60,6 +60,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时45分 ~ 05时22分]"
+        },
+        {
+          "title": "特朗普签署行政命令，将芬太尼列为大规模杀伤性武器",
+          "url": "https://news.ifeng.com/c/8p7mw3hu8Hs",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
+          "url": "https://news.ifeng.com/c/8p7htngCHQD",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "美国总统特朗普：我今天没看股市，可能涨了。",
@@ -207,6 +229,17 @@
           "time_info": "[00时45分 ~ 01时27分]"
         },
         {
+          "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
+          "url": "https://wallstreetcn.com/articles/3761439",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
           "title": "美国总统特朗普：更多国家将加入加沙国际维和部队。",
           "url": "https://flash.jin10.com/detail/20251216045719232800",
           "source": "金十数据",
@@ -279,9 +312,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "特朗普正式起诉BBC 索赔50亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89BBC+%E7%B4%A2%E8%B5%9450%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "德国总理默茨：存在实现真正和平进程的契机，这是自俄乌冲突爆发以来最大的一次契机。没有美国总统特朗普，我们不可能取得过去数小时的积极态势。",
@@ -334,7 +378,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -422,7 +466,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -433,7 +477,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -479,8 +523,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 09时48分]"
         },
         {
           "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
@@ -488,11 +532,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时22分 ~ 07时22分]"
+          "appearance_count": 4,
+          "time_info": "[06时22分 ~ 09时48分]"
         },
         {
           "title": "金十图示：2025年12月15日（周一）热门中概股行情一览（美股收盘）",
@@ -663,7 +708,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         }
