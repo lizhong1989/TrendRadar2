@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T21:35:16.241436+08:00",
-  "total_titles_processed": 2072,
+  "generated_at": "2025-12-19T22:24:22.463302+08:00",
+  "total_titles_processed": 2171,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 86,
+      "match_count": 90,
       "titles": [
         {
           "title": "特朗普签署行政命令，重申2028年登月目标",
@@ -109,8 +109,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时47分 ~ 21时35分]"
+          "appearance_count": 22,
+          "time_info": "[09时47分 ~ 22时24分]"
         },
         {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
@@ -158,6 +158,21 @@
           "time_info": "[14时34分 ~ 18时26分]"
         },
         {
+          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
+          "url": "https://www.zhihu.com/question/1985224796552844512",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时25分 ~ 22时24分]"
+        },
+        {
           "title": "巴西总统卢拉：我100%地信任巴西央行行长Galipolo。 我（才不会像美国总统特朗普对付美联储主席鲍威尔那样）向Galipolo施加压力，他才是做决定的那个人。",
           "url": "https://wallstreetcn.com/livenews/3023257",
           "source": "华尔街见闻-快讯",
@@ -178,20 +193,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
-        },
-        {
-          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
-          "url": "https://www.zhihu.com/question/1985224796552844512",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时25分 ~ 21时35分]"
         },
         {
           "title": "美国商务部长卢特尼克：特朗普有很多优秀的美联储主席候选人。",
@@ -225,6 +226,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
+        },
+        {
+          "title": "特朗普：不排除与委内瑞拉开战",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            23,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 22时24分]"
         },
         {
           "title": "尽管特朗普政府施压，供应萎缩仍推高牛肉价格创下纪录",
@@ -300,19 +315,6 @@
           "time_info": "[00时33分 ~ 01时25分]"
         },
         {
-          "title": "特朗普：不排除与委内瑞拉开战",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            23,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 21时35分]"
-        },
-        {
           "title": "特朗普商业帝国再扩张！DJT并购TAE转型为聚变能源公司",
           "url": "https://www.cls.cn/detail/2233997",
           "source": "财联社热门",
@@ -330,11 +332,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时44分 ~ 21时35分]"
+          "appearance_count": 4,
+          "time_info": "[20时44分 ~ 22时24分]"
         },
         {
           "title": "特朗普下令要求美国人2028年登月",
@@ -581,6 +584,17 @@
           "time_info": "20时44分"
         },
         {
+          "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
+          "url": "https://news.ifeng.com/c/8pDUNvScYT5",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "美国国土安全部部长诺姆：应特朗普总统指示，已立即指示美国公民及移民服务局（USCIS）暂停DV-1计划（多元化移民签证）。",
           "url": "https://flash.jin10.com/detail/20251219123531783800",
           "source": "金十数据",
@@ -744,6 +758,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
+        },
+        {
+          "title": "美国白宫新闻秘书Leavitt：特朗普下午1点的活动将涉及药品和制药行业。",
+          "url": "https://wallstreetcn.com/livenews/3024008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "据AXIOS：美国总统特朗普考虑宣布平安夜和12月26日为假日。",
@@ -961,7 +986,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -977,6 +1002,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "白宫新闻秘书莱维特：总统特朗普将于周五宣布更多“将降低药品和制药产品价格的协议”。",
+          "url": "https://flash.jin10.com/detail/20251219215016593800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "美国白宫：总统特朗普今日签署了一项行政命令，旨在加强对大麻及大麻二酚医疗用途的认知与提升，通过改进相关医学研究，为患者和医生提供更科学的参考依据。",
           "url": "https://flash.jin10.com/detail/20251219041650596800",
           "source": "金十数据",
@@ -986,6 +1022,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：总统特朗普下午1点的活动将聚焦于药品和制药业。",
+          "url": "https://flash.jin10.com/detail/20251219214948801800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "美国白宫：美国总统特朗普签署了关于联邦薪资标准的行政命令。",
@@ -1013,7 +1060,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -1049,8 +1096,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[11时25分 ~ 21时35分]"
+          "appearance_count": 20,
+          "time_info": "[11时25分 ~ 22时24分]"
         },
         {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
@@ -1217,13 +1264,24 @@
           "time_info": "07时21分"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3024010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "拼多多美股盘前大涨，一度涨逾8%。今日召开年度股东大会，宣布实行联席董事长制度，任命赵佳臻为联席董事长，与陈磊共同担任联席董事长兼联席CEO。",
           "url": "https://wallstreetcn.com/livenews/3023976",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -1278,7 +1336,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         }
@@ -1565,8 +1623,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美元指数短线回落至接近98.550点，涨幅收窄至将近0.1%，脱离北京时间21:21刷新的日高98.749点。",
+          "url": "https://wallstreetcn.com/livenews/3024021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌1.54%，暂报3566.29点，整体呈现出U形走势。 Solana目前涨3.12%，狗狗币涨1.39%，XRP涨1.74%。 最近24小时，MarketVector数字资产100涨1.34%，暂报18045.14点，北京时间21:00开始一波显著的上涨行情。 比特币目前涨2.41%，暂报88041.96美元，以太坊涨4.33%，报2944美元。",
           "url": "https://wallstreetcn.com/livenews/3023271",
@@ -1647,8 +1716,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时26分 ~ 21时35分]"
+          "appearance_count": 9,
+          "time_info": "[17时26分 ~ 22时24分]"
         }
       ]
     }
