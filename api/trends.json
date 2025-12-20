@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-20T17:22:10.248386+08:00",
-  "total_titles_processed": 1233,
+  "generated_at": "2025-12-20T18:22:17.332206+08:00",
+  "total_titles_processed": 1280,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 39,
       "titles": [
+        {
+          "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
+          "url": "https://wallstreetcn.com/articles/3761733",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时42分 ~ 18时22分]"
+        },
         {
           "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
           "url": "https://news.ifeng.com/c/8pDUNvScYT5",
@@ -49,18 +61,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时29分 ~ 07时21分]"
-        },
-        {
-          "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
-          "url": "https://wallstreetcn.com/articles/3761733",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时42分 ~ 17时22分]"
         },
         {
           "title": "特朗普签署行政命令，重申2028年登月目标",
@@ -479,7 +479,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "“三巫日”科技股撑美股指两连阳，日元重挫1.4%，银铜齐创新高",
@@ -490,8 +490,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时42分 ~ 17时22分]"
+          "appearance_count": 10,
+          "time_info": "[09时42分 ~ 18时22分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
+          "url": "https://www.cls.cn/detail/2235346",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时42分 ~ 18时22分]"
         },
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -505,20 +519,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时29分 ~ 06时22分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
-          "url": "https://www.cls.cn/detail/2235346",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时42分 ~ 17时22分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -542,8 +542,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时28分 ~ 17时22分]"
+          "appearance_count": 8,
+          "time_info": "[12时28分 ~ 18时22分]"
         },
         {
           "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
@@ -560,6 +560,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时17分 ~ 16时28分]"
+        },
+        {
+          "title": "浙商期货首席策略师、投资咨询部总经理徐涛：明年商品市场最大风险点在美股，但“大坑”是较好的买入时机",
+          "url": "https://wallstreetcn.com/livenews/3024266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
@@ -711,8 +722,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 17时22分]"
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 18时22分]"
         }
       ]
     },
