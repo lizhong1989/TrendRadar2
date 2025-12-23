@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T19:21:26.871685+08:00",
-  "total_titles_processed": 1696,
+  "generated_at": "2025-12-23T20:48:39.545353+08:00",
+  "total_titles_processed": 1792,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时48分 ~ 19时21分]"
+          "appearance_count": 14,
+          "time_info": "[09时48分 ~ 20时48分]"
         },
         {
           "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
@@ -49,11 +49,12 @@
           "ranks": [
             4,
             6,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时28分 ~ 19时21分]"
+          "appearance_count": 13,
+          "time_info": "[11时28分 ~ 20时48分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -283,9 +284,23 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 20时48分]"
         },
         {
           "title": "美国联邦贸易委员会（FTC）：为响应美国总统特朗普的人工智能行动计划，已重新启动并搁置对Rytr的最终命令。",
@@ -400,19 +415,6 @@
           "time_info": "[04时26分 ~ 05时21分]"
         },
         {
-          "title": "特朗普又自恋,新战舰用自己名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            27,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 19时21分]"
-        },
-        {
           "title": "据Politico：特朗普的批评者乔治·康威已提交申请，竞选纽约州众议院席位。",
           "url": "https://flash.jin10.com/detail/20251223005459495800",
           "source": "金十数据",
@@ -450,6 +452,17 @@
           "time_info": "[02时34分 ~ 04时26分]"
         },
         {
+          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
+          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 20时48分]"
+        },
+        {
           "title": "“特朗普级”战列舰性能如何",
           "url": "https://www.toutiao.com/trending/7586915482419072538/",
           "source": "今日头条",
@@ -472,17 +485,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时32分 ~ 17时28分]"
-        },
-        {
-          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
-          "url": "https://news.ifeng.com/c/8pJycIBu5di",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时21分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：将与美国总统特朗普讨论伊朗的核活动。",
@@ -580,7 +582,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -1108,7 +1110,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，暂报89627.99美元；以太坊涨1.80%，报3043.51美元。",
@@ -1168,6 +1170,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "美元指数DXY日内下跌0.4%，跌至10月3日以来新低，报97.853。",
+          "url": "https://flash.jin10.com/detail/20251223192922576800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
         }
       ]
     },
@@ -1187,8 +1200,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时21分 ~ 19时21分]"
+          "appearance_count": 25,
+          "time_info": "[01时21分 ~ 20时48分]"
         },
         {
           "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
